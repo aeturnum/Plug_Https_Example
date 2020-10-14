@@ -2,7 +2,7 @@
 
 This is a minimal project for using Plug and Cowboy to serve content over HTTPS. 
 
-![Image of working https connection](https.png)
+![Image of working https connection](HTTPS.png)
 
 ## Generating Certs
 
